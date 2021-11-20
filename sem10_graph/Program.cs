@@ -45,6 +45,7 @@ namespace sem10_graph
             if(nmTrigger && arrTrigger)
                 Console.WriteLine(BellmanFordAproach.MaxPosibility(arr,n_m[0],n_m[1]));
         }
+        
         static void Main(string[] args)
         {
             task10_UCUDoorPossibilities();

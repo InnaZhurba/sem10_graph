@@ -19,13 +19,13 @@ namespace sem10_graph.task_10
         {
             InitializeEdges(n);
 
-            for (int i = 0; i < m; i++)
+            for (int i = 0; i < n; i++)
             {
                 for (int j = 0; j < m; j++)
                 {
-                    int tempSum = edges[arr[i, 0]] + arr[i, 2];
-                    if (tempSum > edges[arr[i, 1]])
-                        edges[arr[i, 1]] = tempSum;
+                    int tempSum = edges[arr[j, 0]] + arr[j, 2];
+                    if (tempSum > edges[arr[j, 1]])
+                        edges[arr[j, 1]] = tempSum;
                 }
             }
             
