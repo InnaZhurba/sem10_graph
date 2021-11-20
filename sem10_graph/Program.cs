@@ -1,11 +1,36 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.Linq;
 using sem10_graph.task_10;
+using sem10_graph.task_8;
 
 namespace sem10_graph
 {
     class Program
     {
+        public static void task8_EngineCreation()
+        {
+            int[] p = intArr_convertor(Console.ReadLine().Split(" "));
+            if (p.Length < 1 || p.Length > 100000)
+                return;
+            
+            List<int[]> arr = new List<int[]>();
+            int sumArrLength = 0;
+            
+            for (int i = 0; i < p.Length; i++)
+            {
+                string str = Console.ReadLine();
+                int[] tmp = string.IsNullOrWhiteSpace(str) ? null : intArr_convertor(str.Split(" "));
+                arr.Add(tmp);
+                sumArrLength += tmp?.Length ?? 0;
+            }
+
+            if (sumArrLength > 200000)
+                return;
+            
+            EngineCreation engineCreation = new EngineCreation(p,arr);
+            Console.WriteLine(engineCreation.TimeOverall(0, 1));
+        }
         public static int[] intArr_convertor(string[] temp)
         {
             int[] arr = new int[temp.Length];
@@ -45,10 +70,10 @@ namespace sem10_graph
             if(nmTrigger && arrTrigger)
                 Console.WriteLine(BellmanFordAproach.MaxPosibility(arr,n_m[0],n_m[1]));
         }
-        
         static void Main(string[] args)
         {
-            task10_UCUDoorPossibilities();
+            task8_EngineCreation();
+            //task10_UCUDoorPossibilities();
         }
     }
 }
