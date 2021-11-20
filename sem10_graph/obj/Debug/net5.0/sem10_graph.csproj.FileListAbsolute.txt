@@ -1,0 +1,15 @@
+/Users/innazhurba/Documents/ASD2021/sem10_graph/sem10_graph/sem10_graph/bin/Debug/net5.0/sem10_graph.deps.json
+/Users/innazhurba/Documents/ASD2021/sem10_graph/sem10_graph/sem10_graph/bin/Debug/net5.0/sem10_graph.runtimeconfig.json
+/Users/innazhurba/Documents/ASD2021/sem10_graph/sem10_graph/sem10_graph/bin/Debug/net5.0/sem10_graph.runtimeconfig.dev.json
+/Users/innazhurba/Documents/ASD2021/sem10_graph/sem10_graph/sem10_graph/bin/Debug/net5.0/sem10_graph.dll
+/Users/innazhurba/Documents/ASD2021/sem10_graph/sem10_graph/sem10_graph/bin/Debug/net5.0/ref/sem10_graph.dll
+/Users/innazhurba/Documents/ASD2021/sem10_graph/sem10_graph/sem10_graph/bin/Debug/net5.0/sem10_graph.pdb
+/Users/innazhurba/Documents/ASD2021/sem10_graph/sem10_graph/sem10_graph/obj/Debug/net5.0/sem10_graph.csproj.AssemblyReference.cache
+/Users/innazhurba/Documents/ASD2021/sem10_graph/sem10_graph/sem10_graph/obj/Debug/net5.0/sem10_graph.GeneratedMSBuildEditorConfig.editorconfig
+/Users/innazhurba/Documents/ASD2021/sem10_graph/sem10_graph/sem10_graph/obj/Debug/net5.0/sem10_graph.AssemblyInfoInputs.cache
+/Users/innazhurba/Documents/ASD2021/sem10_graph/sem10_graph/sem10_graph/obj/Debug/net5.0/sem10_graph.AssemblyInfo.cs
+/Users/innazhurba/Documents/ASD2021/sem10_graph/sem10_graph/sem10_graph/obj/Debug/net5.0/sem10_graph.csproj.CoreCompileInputs.cache
+/Users/innazhurba/Documents/ASD2021/sem10_graph/sem10_graph/sem10_graph/obj/Debug/net5.0/sem10_graph.dll
+/Users/innazhurba/Documents/ASD2021/sem10_graph/sem10_graph/sem10_graph/obj/Debug/net5.0/ref/sem10_graph.dll
+/Users/innazhurba/Documents/ASD2021/sem10_graph/sem10_graph/sem10_graph/obj/Debug/net5.0/sem10_graph.pdb
+/Users/innazhurba/Documents/ASD2021/sem10_graph/sem10_graph/sem10_graph/obj/Debug/net5.0/sem10_graph.genruntimeconfig.cache
